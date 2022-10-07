@@ -13,7 +13,7 @@ https://e-health.software
 https://www.linkedin.com/feed/update/urn:li:activity:6982753433699151872/?fbclid=IwAR2WdxJdcf0dpnDN_iC56wR8PyacyQRrYq0viSOHrJ9CL-pGFmdvwdiASVo
 
 # Media That talked about the project
-I'am dropping some links for Tunisian known media who talked about our project:
+I'am dropping some links for Tunisian known media that talked about our project:
 
 https://www.tap.info.tn/fr/Portail-Economie/15600971-le-prix-du
 
